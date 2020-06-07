@@ -6,7 +6,7 @@ Aplicativo de demonstração tanto em WEB quanto para celulares tantop Android q
 # Código bem completo com diversos exemplos de funcionalidades
 ## Resumo da utilidade:
 Aplicativo para cadastro e visualização de pontos de coleta de lixo seletiva, com filtros que permitem buscar até seis tipos de resíduos diferentes:
-1 - Lâmpadas
+1 - Lâmpadas/br
 2 - Pilhas e Baterias
 3 - Papéis e Papelão
 4 - Resíduos Eletrônicos

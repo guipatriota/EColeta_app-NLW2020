@@ -129,7 +129,7 @@ const Points = () => {
                 onPress={() => handleNavigateToDetail(point.id)}
                 coordinate={{ 
                   latitude: point.latitude,
-                  longitude: point.longitude, 
+                  longitude: point.longitude,
                 }}
               >
                 <View style={styles.mapMarkerContainer}>

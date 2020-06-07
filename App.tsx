@@ -1,6 +1,6 @@
 import React from 'react';
 import { AppLoading } from 'expo';
-import { StatusBar, StyleSheet, Text, View } from 'react-native';
+import { StatusBar, StyleSheet } from 'react-native';
 
 import { Roboto_400Regular, Roboto_500Medium} from '@expo-google-fonts/roboto';
 import { Ubuntu_700Bold, useFonts } from '@expo-google-fonts/ubuntu';
@@ -22,7 +22,7 @@ if (!fontsLoaded) {
   return (
     <>
       <StatusBar barStyle="dark-content" backgroundColor="transparent"/>
-      <View><Text>Olá</Text></View>
+      <Routes />
     </>
   );
 }

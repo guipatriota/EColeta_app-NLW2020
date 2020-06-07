@@ -20,7 +20,7 @@ const Home = () => {
 
   return (
     <KeyboardAvoidingView 
-      sytle={{ flex: 1 }} 
+      style={{ flex: 1 }} 
       behavior={Platform.OS === 'ios' ? 'padding' : undefined}
     >
       <ImageBackground 
@@ -43,7 +43,7 @@ const Home = () => {
             style={styles.input}
             placeholder="Digite a UF"
             value={uf}
-            maxLenght={2}
+            maxLength={2}
             autoCapitalize="characters"
             autoCorrect={false}
             onChangeText={setUf}

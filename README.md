@@ -1,43 +1,14 @@
-<head>
-<style>
-* {
-  color: #151320;
-}
-/*body {
-  background-color: #151320;
-}*/
-h1 {
-  font-size: 40px;
-  color: #151320;
-}
-div {
-  background-color: white;
-  padding: 20px;
-}
-a {
-  color: lightgrey;
-  text-decoration: none;
-}
-p a {
-  color: lightgrey;
-  text-decoration: none;
-}
-a:hover {
-  color: #34CB79;
-}
-</style>
-</head>
 <h1 align="center">
     <div><img alt="Ecoleta" title="Ecoleta" src=".github/ecoleta.svg" width="220px" /></div>
 </h1>
 
 <p align="center">
-  <a href="#descricao">Descrição</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#Tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#licença">Licença</a>
+  <a href="#-descricao">Descrição</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-licença">Licença</a>
 </p>
 
 <p align="center">

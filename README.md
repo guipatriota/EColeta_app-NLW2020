@@ -36,12 +36,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [React](https://reactjs.org)
 - [React Native](https://facebook.github.io/react-native/)
 - [Expo](https://expo.io/)
+- [API REST](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
 
 # :computer: Projeto
 
 O Ecoleta é um marketplace que ajuda pessoas a encontrarem pontos de coleta de resíduos de forma eficiente.
 
-API WEB e Mobile feita em Typescript, HTML, CSS, Node.js, ReactJS, React Native e Expo.
+API REST com app WEB e Mobile feita em Typescript, HTML, CSS, Node.js, ReactJS, React Native e Expo.
 
 Aplicativo de demonstração tanto em WEB quanto para celulares tantop Android quanto iOS.
 
@@ -57,7 +58,7 @@ Aplicativo para cadastro e visualização de pontos de coleta de lixo seletiva, 
 
 ## Sobre a arquitetura do código:
 Este código possui três partes, sendo construído em typescipt com as ferramentos Node.js, ReactJS, React Native e Expo:
-1. Servidor - Usado como Back-end da aplicação, com banco de dados em SQLite e linguagem Javascript e Typescript.
+1. Servidor - API REST. Usado como Back-end da aplicação, com banco de dados em SQLite e linguagem Javascript e Typescript.
 2. Página WEB - Aplicativo funcional no qual se pode cadastrar novos pontos de coleta, incluindo imagens da fachada ou do local.
 3. Aplicativo móvel - Multiplataforma para celular Android e iOS, permite a visualização e busca por local para descarte dos resíduos.
 

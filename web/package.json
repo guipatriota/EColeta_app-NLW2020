@@ -51,7 +51,13 @@
     "tmp": "^0.2.6",
     "uuid": "^11.1.1",
     "webpack-dev-server": "^5.2.4",
-    "xmldom": "npm:@xmldom/xmldom@^0.8.10"
+    "xmldom": "npm:@xmldom/xmldom@^0.8.10",
+    "@babel/traverse": "^7.23.2",
+    "form-data": "^2.5.4",
+    "json-schema": "^0.4.0",
+    "loader-utils": "^1.4.2",
+    "merge-deep": "^3.0.3",
+    "minimist": "^1.2.6"
   },
   "overrides": {
     "shell-quote": "^1.8.4",
@@ -59,6 +65,12 @@
     "tmp": "^0.2.6",
     "uuid": "^11.1.1",
     "webpack-dev-server": "^5.2.4",
-    "xmldom": "npm:@xmldom/xmldom@^0.8.10"
+    "xmldom": "npm:@xmldom/xmldom@^0.8.10",
+    "@babel/traverse": "^7.23.2",
+    "form-data": "^2.5.4",
+    "json-schema": "^0.4.0",
+    "loader-utils": "^1.4.2",
+    "merge-deep": "^3.0.3",
+    "minimist": "^1.2.6"
   }
 }

@@ -11,7 +11,7 @@
     "@types/react": "^16.9.35",
     "@types/react-dom": "^16.9.8",
     "@types/react-router-dom": "^5.1.5",
-    "axios": "^0.19.2",
+    "axios": "^0.32.0",
     "leaflet": "^1.6.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
@@ -44,5 +44,21 @@
   },
   "devDependencies": {
     "@types/react-leaflet": "^2.5.1"
+  },
+  "resolutions": {
+    "shell-quote": "^1.8.4",
+    "axios": "^0.32.0",
+    "tmp": "^0.2.6",
+    "uuid": "^11.1.1",
+    "webpack-dev-server": "^5.2.4",
+    "xmldom": "npm:@xmldom/xmldom@^0.8.10"
+  },
+  "overrides": {
+    "shell-quote": "^1.8.4",
+    "axios": "^0.32.0",
+    "tmp": "^0.2.6",
+    "uuid": "^11.1.1",
+    "webpack-dev-server": "^5.2.4",
+    "xmldom": "npm:@xmldom/xmldom@^0.8.10"
   }
 }
